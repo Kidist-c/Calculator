@@ -29,6 +29,7 @@ body{
   font-size: 5rem;
   text-align: left;
   background-color: hsl(0, 0%, 20%);
+  color:white;
 }
 button{
   width: 100px;
@@ -52,6 +53,11 @@ button:active{
 }
 .operator-btn:hover{
   background-color: hsl(35 100% 65%);
+
+}
+.operator-btn:active{
+  background-color: hsl(35 100% 75%)
+
 
 }
   
